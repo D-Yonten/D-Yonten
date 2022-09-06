@@ -55,16 +55,8 @@
 
 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=prabarai&theme=dracula&"><p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=D-Yonten&theme=dracula&"><p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabarai&show_icons=true&theme=dracula&locale=en" alt="prabarai" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=D-Yonten&show_icons=true&theme=dracula&locale=en" alt="D-Yonten" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabarai&theme=dracula&" alt="prabarai" /></p>
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/prabarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabarai" height="30" width="40" /></a>
-  <a href="https://instagram.com/cincleeno_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cincleeno_" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/channel/UCbMyAz3kEMlay_tzrH1uw0g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbmyaz3kemlay_tzrh1uw0gcincleenohttps://www.youtube.com/channel/ucbmyaz3kemlay_tzrh1uw0g" height="30" width="40" /></a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=D-Yonten&theme=dracula&" alt="D-Yonten" /></p>
